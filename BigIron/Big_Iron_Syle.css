@@ -2,6 +2,7 @@ body {
     background: #da3347;
 }
 h1 {
+    color: #000000;
     font-family: 'Ultra', serif;
     font-size: 8em;
     text-align: center;
@@ -12,8 +13,33 @@ h1:hover {
     color: #efd31a;
     text-decoration: #efd31a dotted underline;
 }
+#hit-album {
+    font-family: 'Ultra', serif;
+    font-size: 2em;
+    position: absolute;
+    left: 1.55em;
+    top: 12em;
+    text-decoration: underline .25em;
+}
+#gunfighter {
+    font-family: 'Ultra', serif;
+    font-size: 3em;
+    position: absolute;
+    left: 1em;
+    top: 9em;
+}
+#ballads {
+    font-family: 'Ultra', serif;
+    font-size: 4.35em;
+    position: absolute;
+    left: .7em;
+    top: 6.5em;
+}
 #marty-robbins {
     width: 50em;
     height: 50em;
     margin: 0em 19em 0em 19em;
+}
+#song {
+    text-decoration: none;
 }
