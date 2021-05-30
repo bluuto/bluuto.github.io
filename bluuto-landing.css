@@ -1,0 +1,21 @@
+#bluuto {
+    height: 20em;
+    width: 20em;
+    position: absolute;
+    top: 15em;
+    left: 36em;
+}
+#bluuto:hover {
+    opacity: 0;
+}
+#bluuto_gif {
+    height: 20em;
+    width: 20em;
+    position: absolute;
+    top: 15em;
+    left: 36em;
+    opacity: 0;
+}
+#bluuto_gif:hover {
+    opacity: 1;
+}
